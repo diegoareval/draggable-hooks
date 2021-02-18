@@ -32,6 +32,7 @@ const Column = ({day, products})=> {
                             {provided.placeholder}
                         </ProductList>
                     )}
+
                 </Droppable>
             </Container>
         );
